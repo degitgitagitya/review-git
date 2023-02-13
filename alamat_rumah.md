@@ -1,5 +1,5 @@
 # Keterangan Alamat
 
-## Kota : Bandung
+## Kota : Jakarta
 ## Provinsi : Jawa Barat
 ## Negara : Indonesia
